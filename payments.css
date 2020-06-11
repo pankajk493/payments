@@ -1,0 +1,21 @@
+.main{
+	padding-top: 3em;
+}
+.payments{
+	text-align: center;
+	font-weight:bold;
+}
+b{
+	font-weight: bold;
+	font-size: 1.2em;
+	font-family: arial;
+}
+.edit{
+	display: inline;
+}
+.sign{
+	color: orange;
+}
+.owed{
+	color: orange;
+}
